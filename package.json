@@ -23,7 +23,7 @@
     "cancelable-promise": "^4.3.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.6.1",
     "filenamify": "^4.1.0",
     "find-process": "^1.4.7",
     "fs-extra": "^10.1.0",
